@@ -1,8 +1,8 @@
-The system is divided to 3 partrs:
+##The system is divided to 3 partrs:
 
-conersion_system.py:
+<p>conersion_system.py:
 run the console application, get the pate of input file and print the
-outputs path of the output files.
+outputs path of the output files.</p>
 
 constants.py:
 save mapping dictionary of currency rate, data formatting and reason code
