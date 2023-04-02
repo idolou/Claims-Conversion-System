@@ -1,4 +1,4 @@
-##The system is divided to 3 partrs:
+#The system is divided to 3 partrs:
 
 <p>conersion_system.py:
 run the console application, get the pate of input file and print the
