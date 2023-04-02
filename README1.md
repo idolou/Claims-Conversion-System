@@ -1,9 +1,9 @@
 # The system is divided to 3 partrs:
 
-<p>
-## conersion_system.py:
+
+## conversion_system.py:
 run the console application, get the pate of input file and print the
-outputs path of the output files.</p>
+outputs path of the output files.
 
 ## constants.py:
 save mapping dictionary of currency rate, data formatting and reason code
